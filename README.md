@@ -17,7 +17,7 @@
 
 ## Deploy
 > Fork and edit info.py & main.py with your infomations before deploy.
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?) 
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?) 
 
 ## Devs & Special Credits ❤
 
