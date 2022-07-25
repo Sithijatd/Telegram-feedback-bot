@@ -3,7 +3,7 @@
  
  <img src="https://telegra.ph/file/f5bd79e18c655e7c4f955.jpg" align="left" width="300" height="300"/>
 </div>
-</br></br>
+
 <p><b>Telegram feedback bot with some additional features**</b></p> 
 
 ## [Demo 💎](https://t.me/ImSithijaBot)
@@ -17,4 +17,4 @@
 - **[Damantha Jasinghe](https://github.com/Damantha126) - Dev**
 -  **[Tinura Dinith](https://github.com/TinuraD) - Dev**
 
- 
+ </br></br>
