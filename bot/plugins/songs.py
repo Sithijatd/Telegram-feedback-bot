@@ -1,5 +1,5 @@
 import os
-from bot import app as bot
+from bot import bot
 from pyrogram import idle, filters
 import requests
 import yt_dlp as youtube_dl
