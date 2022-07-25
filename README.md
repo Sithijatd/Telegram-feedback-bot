@@ -1,7 +1,7 @@
 # Telegram-feedback-bot
-Telegram feedback bot with some additional features
+**Telegram feedback bot with some additional features*8
 
-<div align="center">
+<div align="right">
  
 ![ImSithijabot](https://telegra.ph/file/f5bd79e18c655e7c4f955.jpg)
 </div>
