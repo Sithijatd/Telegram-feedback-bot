@@ -28,7 +28,7 @@
 - `OWNER` - Your Telegram Account ID.
 - `MONGODB_URL` - Your MongoDB URL ([**tutorial here**](./CreateMongoDB.md))
 - `LOG_CHANNEL` - Make a private channel and get its ID (search on Google if you don't know how to do). Using a group works as well, just add [`Rose`](https://t.me/MissRose_bot?startgroup=startbot), then send `/id` (In both cases, make sure to add your bot to the channel/group as an admin !)
-> Check config [file](https://github.com/Sithijatd/Telegram-feedback-bot/blob/main/info.py) for additional vars.
+> Check [config file](https://github.com/Sithijatd/Telegram-feedback-bot/blob/main/info.py) for additional vars.
 
 ## Devs & Special Credits ❤
 
