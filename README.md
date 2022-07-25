@@ -1,5 +1,9 @@
 # Telegram-feedback-bot
 Telegram feedback bot with some additional features
+| ![bot pic](https://telegra.ph/file/9b5a2ade34d132bf7aaea.mp4) |
+|----------------------------------------------------------------------|
+<h4 align="center">- [Demo 💎](https://t.me/ImSithijaBot) -<h4>
+  
 ## [Demo 💎](https://t.me/ImSithijaBot)
 
 ## Heroku Deploy
@@ -10,3 +14,4 @@ Telegram feedback bot with some additional features
 - **[Sithijatd](https://github.com/WKRPrabashwara) - Owner | Dev**
 - **[Damantha Jasinghe](https://github.com/Damantha126) - Dev**
 -  **[Tinura Dinith](https://github.com/TinuraD) - Dev**
+ 
