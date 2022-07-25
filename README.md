@@ -8,4 +8,4 @@ Telegram feedback bot with some additional features
 
 - **[Sithijatd](https://github.com/WKRPrabashwara) - Owner | Dev**
 - **[Damantha Jasinghe](https://github.com/Damantha126) - Dev**
--  **[Tinura Dineth](https://github.com/TinuraD) - Dev**
+-  **[Tinura Dinith](https://github.com/TinuraD) - Dev**
