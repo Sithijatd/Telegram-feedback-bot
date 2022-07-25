@@ -8,8 +8,16 @@
 
 ## [Demo 💎](https://t.me/ImSithijaBot)
 
-## Heroku Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sithijatd/Telegram-feedback-bot) 
+## Feature
+- Communicate with users.
+- Broadcast support.
+- Simple menu.
+- Logo creater.
+- Song downloader.
+
+## Deploy
+> Fork and edit info.py & main.py with your infomations before deploy.
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?) 
 
 ## Devs & Special Credits ❤
 
