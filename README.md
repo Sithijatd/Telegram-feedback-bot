@@ -16,7 +16,7 @@
 - Song downloader.
 
 ## Deploy
-> Fork and edit info.py & main.py with your infomations before deploy.
+> Fork and edit [info.py](https://github.com/Sithijatd/Telegram-feedback-bot/info.py) & [main.py](https://github.com/Sithijatd/Telegram-feedback-bot/bot/main.py) with your infomations before deploy.
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?) 
 
 ## Devs & Special Credits ❤
