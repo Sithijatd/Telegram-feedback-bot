@@ -34,11 +34,13 @@ HELP_BUTTON = InlineKeyboardMarkup(
                  InlineKeyboardButton("Quote", callback_data='quotemenu')
                 ],
                 [
-                  InlineKeyboardButton("Song", callback_data='songmenu'),
-                  InlineKeyboardButton("Wall", callback_data='wall_gen')
+                  InlineKeyboardButton("Song", callback_data='songmenu')
                 ],
                 [
                   InlineKeyboardButton("📛More Tools📛", callback_data='toolmenu')
+                ],
+                [
+                  InlineKeyboardButton("Repo", url='https://github.com/Sithijatd/Telegram-feedback-bot')
                 ],
                 [
                   InlineKeyboardButton("🔙Back", callback_data='startmenu'),
@@ -76,7 +78,7 @@ TOOLS_TEXT = """
 Here is the additional Tools of this bot.
 
 Available commands
-❥ /weather {location} - Get the weather of your location.
+❥ /covid - Get the Covid status of Srilanka
 
 More tools add in future.
 """
