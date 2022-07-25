@@ -1,5 +1,6 @@
 # Telegram-feedback-bot
 Telegram feedback bot with some additional features
+<div>
 <img src="https://telegra.ph/file/f5bd79e18c655e7c4f955.jpg)" align="left" width="400" height="400"/>
 </div>
 </br></br>
