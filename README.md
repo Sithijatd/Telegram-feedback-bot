@@ -2,7 +2,6 @@
 Telegram feedback bot with some additional features
 | ![bot pic](https://telegra.ph/file/9b5a2ade34d132bf7aaea.mp4) |
 |----------------------------------------------------------------------|
-<h4 align="center">- [Demo 💎](https://t.me/ImSithijaBot) -<h4>
   
 ## [Demo 💎](https://t.me/ImSithijaBot)
 
