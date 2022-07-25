@@ -1,8 +1,6 @@
 # Telegram-feedback-bot
 Telegram feedback bot with some additional features
-![Unzip logo](https://telegra.ph/file/f5bd79e18c655e7c4f955.jpg)
-</div>
-</br></br>
+<img src="https://telegra.ph/file/f5bd79e18c655e7c4f955.jpg)" align="left" width="400" height="400"/>
 
 ## [Demo 💎](https://t.me/ImSithijaBot)
 
