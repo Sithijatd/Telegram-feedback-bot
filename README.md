@@ -1,6 +1,6 @@
 # Telegram-feedback-bot
 Telegram feedback bot with some additional features
-| <a href="https://telegra.ph/file/f5bd79e18c655e7c4f955.jpg"></a> |
+ <a href="https://telegra.ph/file/f5bd79e18c655e7c4f955.jpg"></a>
 |----------------------------------------------------------------------|
   
 ## [Demo 💎](https://t.me/ImSithijaBot)
