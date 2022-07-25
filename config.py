@@ -15,13 +15,3 @@ class Config(object):
 	BROADCAST_AS_COPY = bool(os.environ.get("BROADCAST_AS_COPY"))
 	ARQ_API_KEY = os.environ.get("ARQ_API_KEY")
 
-        #Error ekk
-       #API_KEY = os.environ.get("HEROKU_API_KEY", None)
-       #APP_NAME = os.environ.get("HEROKU_APP_NAME", None)
-       #if not API_KEY or \
-          #not APP_NAME:
-          #HEROKU_APP=None
-       #else:
-          #HEROKU_APP=heroku3.from_key(API_KEY).apps()[APP_NAME] """
-
-     
