@@ -1,8 +1,9 @@
 # Telegram-feedback-bot
 Telegram feedback bot with some additional features
-### [Demo 💎](https://t.me/ImSithijaBot)
+## [Demo 💎](https://t.me/ImSithijaBot)
 
-
+## Heroku Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sithijatd/Telegram-feedback-bot)) 
 
 ## Devs & Special Credits ❤
 
