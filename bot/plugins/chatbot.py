@@ -29,6 +29,7 @@ from config import Config
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 from googletrans import Translator
+from pyrogram import enums
 
 async def bot_msg_chatinfo():
     stats = f"""
@@ -57,7 +58,7 @@ tr = Translator()
 async def chatbot(_, message):
     if message.text[0] == "/":
         return
-    await bot.send_chat_action(message.chat.id, "typing")
+    await bot.send_chat_action(message.chat.id, enums.ChatAction.TYPING)
     lang = tr.translate(message.text).src
     trtoen = (message.text if lang=="en" else tr.translate(message.text, dest="en").text).replace(" ", "%20")
     text = trtoen.replace(" ", "%20") if len(message.text) < 2 else trtoen
