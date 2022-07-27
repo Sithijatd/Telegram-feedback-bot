@@ -4,7 +4,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, ForceRepl
 START_IMG = "https://telegra.ph/file/a349ecb55c622ecf27b07.jpg"
 
 START_TEXT = """
-Hello there 👋
+Hello there 
 **I am Assistant bot of [Sithija](https://t.me/Itsmesithija)**
 """
 
