@@ -1,5 +1,5 @@
 pyTelegramBotAPI
-pyrogram
+pyrogram==1.4.6
 tgcrypto
 asyncio
 DateTime
