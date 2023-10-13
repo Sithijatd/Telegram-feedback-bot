@@ -1,4 +1,4 @@
-from configs import Config
+from config import Config
 from pyrogram import Client, filters, idle
 from pyrogram.types import Message, User
 from bot import bot
